@@ -1,0 +1,2 @@
+# Global-Ecological-Analysis-of-Ambient-Temperature-and-Cancer-Incidence
+This repository contains the data, statistical code, and supplementary materials used in the study investigating the association between long-term average ambient temperature and age-standardized cancer incidence across 155 countries. The repository is provided to ensure transparency, reproducibility, and facilitate future research.
